@@ -8,21 +8,22 @@
   - Node.js
   - React
   - PHP
+  - Docker
+  - Apache - Nginx
   - Bases de datos ([MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/))
   
 - :writing_hand: Estoy aprendiendo ...
 
   - [Node.js](https://nodejs.org/es)
   - [React](https://es.reactjs.org)
-  - [Angular](https://angular.io/)
+  - [Laravel](https://laravel.com/)
 
 - :pushpin: Datos sobre mí ...
 
-  - Actualmente estoy usando Debian 12 como mi sistema operativo de productividad.
   - Siempre estoy aprendiendo algo nuevo, y siempre busco adaptarme a nuevos entornos de trabajo.
   - Soy bastante atento al equipo y me gusta la buena organización.
-  - El inglés es el idioma después del español que más me gusta, pero aún no lo domino.
+  - Estoy cursando mi último año de ingeniería informática.
+  - Mi nivel de inglés es B2, puedes verificarlo [Aqui](https://efset.org/cert/CJHssU)
  
 - 📫 Puedes contactarme en ...
   * Mi correo electrónico personal: `leonardojhr03@gmail.com`
- 
